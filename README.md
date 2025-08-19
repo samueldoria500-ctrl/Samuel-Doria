@@ -5,7 +5,8 @@ Meu repositório
 
 Projeto simples e eficiente para gerar senhas aleatórias e seguras, com diferentes níveis de complexidade.
 
-Objetivos do projeto: Desenvolver um sistema capaz de gerar senhas fortes e aleatórias, garantindo maior segurança digital.
+Objetivos do projeto: 
+- Desenvolver um sistema capaz de gerar senhas fortes e aleatórias, garantindo maior segurança digital.
 - Definição do tamanho da senha.
 - Opção de excluir caracteres ambíguos (ex: `0`, `O`, `1`, `l`).
 - Fácil de usar e personalizar.
