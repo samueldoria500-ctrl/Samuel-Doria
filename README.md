@@ -1,18 +1,20 @@
 # Samuel-Doria
 Meu repositório pessoal
 
-Meu Projeto de Portfólio
+- Projeto: Gerador de Senhas Seguras
 
-Este projeto foi desenvolvido como parte do meu aprendizado em **Ciência da Computação** e tem como objetivo demonstrar minhas habilidades em programação, organização de código e documentação de projetos no GitHub.
+Este é um projeto desenvolvido para praticar e demonstrar minhas habilidades em Ciência de computação.
 
- Objetivo do Projeto
+Objetivos do projeto: Mostrar como aplico conceitos aprendidos na prática, utilizando boas práticas de programação e ferramentas modernas.
 
-O objetivo deste projeto é criar uma aplicação web simples para gerenciar tarefas, desenvolver um jogo em Python, uma API para cadastro de usuários, etc.
+Tecnologias utilizadas:
+- JavaScript (Node.js) → para a lógica da aplicação  
+- Express → para criação da API  
+- HTML/CSS → para a interface  
+- Git/GitHub → versionamento do código
 
- O que eu aprendi
-
- Durante o desenvolvimento deste projeto, aprendi:
- A estruturar um projeto em repositório Git de forma organizada.  
- A escrever documentação clara em um **README.md**.  
- A trabalhar com controle de versão e boas práticas no GitHub.  
- Conceitos de programação orientada a objetos, manipulação de APIs, consumo de banco de dados, etc.
+O que eu aprendi:Como estruturar um projeto do zero  
+- Uso do **Git e GitHub** para versionamento e portfólio  
+- Criação de rotas com Express  
+- Organização do código em pastas para melhor manutenção  
+- Importância de documentar bem o projeto.
