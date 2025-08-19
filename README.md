@@ -9,8 +9,6 @@ Este projeto foi desenvolvido como parte do meu aprendizado em **Ciência da Com
 O objetivo deste projeto é [explique o que seu projeto faz: exemplo → criar uma aplicação web simples para gerenciar tarefas, desenvolver um jogo em Python, uma API para cadastro de usuários, etc.].
 
 
----
-
 ## O que eu aprendi
 Durante o desenvolvimento deste projeto, aprendi:
  A estruturar um projeto em repositório Git de forma organizada.  
