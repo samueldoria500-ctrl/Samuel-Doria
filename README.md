@@ -13,7 +13,7 @@ O objetivo deste projeto é [explique o que seu projeto faz: exemplo → criar u
 
 ## O que eu aprendi
 Durante o desenvolvimento deste projeto, aprendi:
-- A estruturar um projeto em repositório Git de forma organizada.  
-- A escrever documentação clara em um **README.md**.  
-- A trabalhar com controle de versão e boas práticas no GitHub.  
-- Conceitos de [listar aprendizados técnicos: por exemplo, programação orientada a objetos, manipulação de APIs, consumo de banco de dados, etc.].  
+ A estruturar um projeto em repositório Git de forma organizada.  
+ A escrever documentação clara em um **README.md**.  
+ A trabalhar com controle de versão e boas práticas no GitHub.  
+ Conceitos de [listar aprendizados técnicos: por exemplo, programação orientada a objetos, manipulação de APIs, consumo de banco de dados, etc.].  
