@@ -14,6 +14,7 @@ Opção de excluir caracteres ambíguos (ex: `0`, `O`, `1`, `l`).
 Fácil de usar e personalizar.
 
 Tecnologias utilizadas:
+
 Python 3
 
 Biblioteca `random` e `string
