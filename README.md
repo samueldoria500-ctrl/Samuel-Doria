@@ -15,6 +15,7 @@ Fácil de usar e personalizar.
 
 Tecnologias utilizadas:
 Python 3
+
 Biblioteca `random` e `string
 
 O que eu aprendi:
