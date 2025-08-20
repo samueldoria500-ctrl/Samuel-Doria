@@ -21,7 +21,15 @@ Python 3
 Biblioteca `random` e `string
 
 -O que eu aprendi:
+
 Utilização de bibliotecas padrão do Python.
 Estruturação de projeto no GitHub.
 Escrita de testes automatizados.
 Criação de um README claro e objetivo.
+
+-Como executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/gerador-senhas-seguras.git
+   cd gerador-senhas-seguras
