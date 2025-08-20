@@ -29,7 +29,7 @@ Criação de um README claro e objetivo.
 
 -Como executar
 
-1. Clone o repositório:
+Clone o repositório:
 bash
 git clone
 https://github.com/seu-usuario/gerador-senhas-seguras.git
@@ -37,10 +37,10 @@ cd gerador-senhas-seguras
 
 -Arquivos ultilizados:
 
-    gerador-senhas-seguras/
+  gerador-senhas-seguras/
 
-    main.py           # Código principal do gerador
+  main.py           # Código principal do gerador
 
-    requirements.txt  # Dependências do projeto
+  requirements.txt  # Dependências do projeto
 
-    README.md         # Documentação do projeto
+  README.md         # Documentação do projeto
