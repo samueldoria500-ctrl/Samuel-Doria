@@ -34,3 +34,10 @@ bash
 git clone
 https://github.com/seu-usuario/gerador-senhas-seguras.git
 cd gerador-senhas-seguras
+
+-Arquivos ultilizados:
+
+gerador-senhas-seguras/
+│── main.py           # Código principal do gerador
+│── requirements.txt  # Dependências do projeto
+│── README.md         # Documentação do projeto
