@@ -10,7 +10,7 @@ Eu sou Samuel Doria
 - Ferramentas:** Git, Docker, Linux  
 
 
-   Projetos em destaque
+Projetos em destaque
  - [Gerador de Senhas]
  - [Portfólio Web](https://github.com/usuario/portfolio-web)  
 
