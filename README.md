@@ -31,6 +31,6 @@ Criação de um README claro e objetivo.
 
 1. Clone o repositório:
  bash
-   git clone
-   https://github.com/seu-usuario/gerador-senhas-seguras.git
-   cd gerador-senhas-seguras
+ git clone
+ https://github.com/seu-usuario/gerador-senhas-seguras.git
+ cd gerador-senhas-seguras
