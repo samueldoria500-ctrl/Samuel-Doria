@@ -38,6 +38,8 @@ cd gerador-senhas-seguras
 -Arquivos ultilizados:
 
 gerador-senhas-seguras/
-│── main.py           # Código principal do gerador
-│── requirements.txt  # Dependências do projeto
-│── README.md         # Documentação do projeto
+    main.py           # Código principal do gerador
+
+    requirements.txt  # Dependências do projeto
+
+    README.md         # Documentação do projeto
