@@ -1,5 +1,4 @@
-# Samuel-Doria
-Meu repositório 
+● Repositório do meu projeto
 
 • Projeto: Gerador de Senhas Seguras
 
