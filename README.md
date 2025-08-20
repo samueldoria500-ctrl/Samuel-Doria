@@ -16,5 +16,5 @@ Projetos em destaque
 
 
   Contato
-- LinkedIn:[Samuel alves](https://linkedin.com/in/seuperfil)  
+- LinkedIn:[Samuel alves](https://www.linkedin.com/in/samuel-alves-a7245a37b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - E-mail:Samuel.doria526@gmail.com
