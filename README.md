@@ -1,8 +1,8 @@
 👋 Olá, eu sou Samuel Doria  
 
 🎓 Estudante de Ciência da Computação, apaixonado por tecnologia e aprendizado contínuo.  
-💡 Interesses: Desenvolvimento de Software, Inteligência Artificial e Segurança da Informação.  
-🚀 Meu objetivo é aplicar conhecimentos em projetos práticos e contribuir com a comunidade.  
+  Interesses: Desenvolvimento de Software, Inteligência Artificial e Segurança da Informação.  
+  Meu objetivo é aplicar conhecimentos em projetos práticos e contribuir com a comunidade.  
 
 
  🛠️ Tecnologias & Ferramentas  
@@ -11,7 +11,7 @@
 - Ferramentas:** Git, Docker, Linux  
 
 
- 📂 Projetos em destaque
+   Projetos em destaque
  - [Gerador de Senhas Seguras](https://github.com/usuario/gerador-senhas)  
  - [Análise de Dados com Python](https://github.com/usuario/analise-dados)  
  - [Portfólio Web](https://github.com/usuario/portfolio-web)  
