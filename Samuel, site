@@ -15,10 +15,10 @@
         </h1>
         <h2>- UI / UX DESIGNER</h2>
         <p>
-          Hey! I started my career in 2025. Since then, I’ve reached #1 on the
-          Play Store and won a Social Good Award. Now I’m a Digital Art Director
-          at Serbia creating websites and apps that are simple, beautiful and
-          easy- to-use.
+          Olá! Comecei minha carreira em 2025, E estive a aprendendo a criar sites
+          por meio de código como html e css..., agora sei criar alguns sites e apps
+          que sejam simples e fáceis de usar.
+          
         </p>
         <button>Behance</button>
         <button>Dribble</button>
@@ -28,7 +28,6 @@
         <button>Article</button> <br />
         <br />
         <button>View work</button>
-        <button>instagram</button> <br />
         <br />
         <button class="btn">Hire now</button>
         <h3>Copyright © 2023 Adham Hoffman - UI/X Designer</h3>
